@@ -1,0 +1,38 @@
+{
+    "dependencies": {
+        "axios": "^0.23.0",
+        "colors": "^1.4.0",
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "moment": "^2.29.1",
+        "moment-business": "^3.0.1",
+        "sequelize": "^6.7.0",
+        "socket.io": "^4.2.0"
+    },
+    "name": "js",
+    "version": "1.0.0",
+    "description": "Proyecto Coder BE",
+    "main": "index.js",
+    "scripts": {
+        "test": "node test.js",
+        "dev": "nodemon index.js",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/GianMarchetti/Prototipe-End.git"
+    },
+    "keywords": [
+        "NPM",
+        "EXAMPLES"
+    ],
+    "author": "Gian CoderHouse",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/GianMarchetti/Prototipe-End/issues"
+    },
+    "homepage": "https://github.com/GianMarchetti/Prototipe-End#readme",
+    "devDependencies": {
+        "nodemon": "^2.0.13"
+    }
+}
